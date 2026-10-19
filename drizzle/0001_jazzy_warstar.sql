@@ -1,0 +1,1 @@
+ALTER TABLE "diary" ALTER COLUMN "review_id" DROP NOT NULL;
